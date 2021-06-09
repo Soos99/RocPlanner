@@ -51,5 +51,5 @@ $ npm run serve
 
 
 ## Contacts:
-Feel free to contact [me](dle8@u.rochester.edu) or [Hoang Le](hle7@u.rochester.edu) with any questions, comments,
+Feel free to contact [me](hle7@u.rochester.edu) or [Dung Le](dle8@u.rochester.edu) with any questions, comments,
 suggestions, bug reports, etc.
